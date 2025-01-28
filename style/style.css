@@ -46,6 +46,19 @@ main {
 li {
   margin-right: 32px;
 }
+.menu-btn-1{
+  color: rgb(254, 163, 1);
+}
+.menu-btn-2{
+  color: rgb(1, 172, 253);
+}
+.menu-btn-3{
+  color: rgb(5, 212, 223);
+}
+.menu-btn-4{
+  color: rgb(93, 88, 239);
+}
+
 
 .contact-btn {
   font-size: 20px;
